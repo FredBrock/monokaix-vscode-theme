@@ -10,7 +10,7 @@
             "name": "Comment",
             "scope": "comment",
             "settings": {
-                "foreground": "#94938d"
+                "foreground": "#75715E"
             }
         },
         {
@@ -175,12 +175,12 @@
         }
     ],
     "colors": {
-        "editor.background": "#0f0f0fd0",
+        "editor.background": "#272822",
         "editorCursor.foreground": "#F8F8F0",
         "editor.foreground": "#F8F8F2",
         "editorWhitespace.foreground": "#3B3A32",
         "editor.lineHighlightBackground": "#3E3D32",
         "editor.selectionBackground": "#49483E"
     },
-    "name": "fredbrock"
+    "name": "Monokai"
 }
