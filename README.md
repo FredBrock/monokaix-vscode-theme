@@ -1,5 +1,6 @@
-<<<<<<< HEAD
 # monokaix README
+# monokaix-vscode-theme
+一个基于Monokai的主题
 
 ## Working with Markdown
 
@@ -15,7 +16,4 @@ You can author your README using Visual Studio Code. Here are some useful editor
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
-=======
-# monokaix-vscode-theme
-一个基于Monokai的主题
->>>>>>> e9ca56e7386485e96b7460e7002591026b56aa59
+
