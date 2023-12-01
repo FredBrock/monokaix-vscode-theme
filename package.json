@@ -1,0 +1,21 @@
+{
+  "name": "monokaix",
+  "displayName": "MonokaiX",
+  "description": "一个基于monokai的主题",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "fredbrock",
+        "uiTheme": "hc-black",
+        "path": "./themes/fredbrock-color-theme.json"
+      }
+    ]
+  }
+}
