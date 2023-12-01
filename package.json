@@ -1,14 +1,20 @@
 {
-  "name": "monokaix",
-  "displayName": "MonokaiX",
+  "name": "fredbrock-monokaix-theme",
+  "displayName": "MonokaiX Theme",
   "description": "一个基于monokai的主题",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.84.0"
   },
+  "id": "fredbrock",
+  "publisher": "fredbrock",
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FredBrock/monokaix-vscode-theme.git"
+  },
   "contributes": {
     "themes": [
       {
