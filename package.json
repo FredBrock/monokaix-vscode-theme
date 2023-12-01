@@ -2,7 +2,7 @@
   "name": "fredbrock-monokaix-theme",
   "displayName": "MonokaiX Theme",
   "description": "一个基于monokai的主题",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "engines": {
     "vscode": "^1.84.0"
   },
